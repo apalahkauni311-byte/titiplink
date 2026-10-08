@@ -16,7 +16,7 @@ migrations_dir = "migrations"
 
 [[kv_namespaces]]
 binding = "CONFIG"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "2bda7ce4d40840d08c2c6f762ab71313"
 
 [triggers]
 crons = ["17 * * * *"]
