@@ -11,7 +11,7 @@ not_found_handling = "single-page-application"
 [[d1_databases]]
 binding = "DB"
 database_name = "titiplink-db"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "9938d50b-bd13-4cc7-87de-ceb7e86424ab"
 migrations_dir = "migrations"
 
 [[kv_namespaces]]
