@@ -1,0 +1,9 @@
+{
+  "name": "Titiplink",
+  "short_name": "Titiplink",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#5C7A99",
+  "background_color": "#ffffff",
+  "icons": []
+}

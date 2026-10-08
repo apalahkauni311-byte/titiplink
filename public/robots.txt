@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: /sitemap.xml\n
